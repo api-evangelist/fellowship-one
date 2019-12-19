@@ -1,0 +1,62 @@
+{
+    "name": "Fellowship One",
+    "description": "Fellowship One ChMS Website: http:\/\/www.fellowshipone.com         Support: http:\/\/activesupport.force.com\/      Twitter: http:\/\/twitter.com\/fellowshipone",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/404-fellowship-one.jpg",
+    "tags": [
+        "api provider",
+        "churches",
+        "have api",
+        "religion"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fellowship-one\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Fellowship One",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/404-fellowship-one.jpg",
+            "humanURL": "http:\/\/developer.fellowshipone.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fellowship-one-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.fellowshipone.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fellowship-technologies"
+        },
+        {
+            "type": "Email",
+            "url": "f1support@fellowshipone.com"
+        },
+        {
+            "type": "Email",
+            "url": "Billing@FellowshipOne.com"
+        },
+        {
+            "type": "Email",
+            "url": "gosupport@fellowshipone.com"
+        },
+        {
+            "type": "Email",
+            "url": "financialssupport@fellowshipone.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fellowshipone"
+        }
+    ]
+}
